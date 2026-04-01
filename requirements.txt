@@ -1,0 +1,5 @@
+flask==3.0.3
+azure-data-tables==12.5.0
+azure-storage-blob==12.20.0
+opencensus-ext-azure==1.1.13
+gunicorn==22.0.0
